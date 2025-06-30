@@ -30,10 +30,9 @@ Built with Lua, styled for dominance. 🌀
 
 ## 📁 File Breakdown
 
-| File        | Description                         |
-|-------------|-------------------------------------|
-| `script.lua` | Main Volleyball Legends script      |
-| `config.lua` | Optional config file (if included)  |
+| File        | Description                            |
+|-------------|----------------------------------------|
+| `script.lua` | Main Volleyball Legends script        |
 | `README.md` | This epic documentation you're reading |
 
 ---
